@@ -1,0 +1,17 @@
+.Bacon{
+    height:90px;
+    background-color: darkgreen;
+}
+.Broccoli{
+    height:90px;
+    background-color: crimson;
+}
+.circular{
+    border-radius: 100%;
+}
+h1{
+    color: black;
+}
+img:hover{
+    background-color: gold;
+}
